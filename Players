@@ -1,0 +1,17 @@
+
+public class Players{
+    
+    public enum Moves{
+        ROCK,
+        PAPER,
+        SCISSORS
+    }
+    
+    public enum WinStates{
+        WIN, 
+        LOSE,
+        TIE
+    }
+    
+    public Players()
+}
